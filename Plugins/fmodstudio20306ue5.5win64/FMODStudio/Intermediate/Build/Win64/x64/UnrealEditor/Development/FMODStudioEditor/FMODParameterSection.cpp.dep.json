@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudioeditor\\private\\sequencer\\fmodparametersection.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudioeditor\\private\\sequencer\\fmodparametersection.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\moviescenetracks\\public\\sections\\moviesceneparametersection.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescenetracks\\uht\\moviesceneparametersection.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

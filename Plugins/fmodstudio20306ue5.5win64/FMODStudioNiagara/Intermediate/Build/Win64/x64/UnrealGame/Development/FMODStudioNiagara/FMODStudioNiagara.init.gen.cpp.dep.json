@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudioniagara\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudioniagara\\uht\\fmodstudioniagara.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\intermediate\\build\\win64\\x64\\swimtest2\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudioniagara\\intermediate\\build\\win64\\x64\\unrealgame\\development\\fmodstudioniagara\\definitions.fmodstudioniagara.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

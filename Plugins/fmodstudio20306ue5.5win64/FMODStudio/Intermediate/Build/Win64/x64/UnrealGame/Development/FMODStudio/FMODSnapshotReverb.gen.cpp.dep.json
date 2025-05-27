@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodsnapshotreverb.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealgame\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\ansistrproperty.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\containers\\ansistring.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\containers\\unrealstringincludes.h.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\containers\\unrealstring.h.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\strproperty.h.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\utf8strproperty.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\containers\\utf8string.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\containers\\unrealstringincludes.h.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\containers\\unrealstring.h.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\strproperty.h.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\classes\\fmodsnapshotreverb.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\assetregistrytagscontext.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\reverbeffect.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\reverbeffect.generated.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodsnapshotreverb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

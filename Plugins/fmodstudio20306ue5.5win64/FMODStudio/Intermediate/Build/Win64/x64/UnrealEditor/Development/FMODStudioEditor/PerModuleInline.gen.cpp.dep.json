@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudioeditor\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\visualizerdebuggingstate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

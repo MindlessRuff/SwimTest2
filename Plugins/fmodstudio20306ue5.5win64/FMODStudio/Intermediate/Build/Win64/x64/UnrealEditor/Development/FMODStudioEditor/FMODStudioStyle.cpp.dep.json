@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "Includes": [
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyle.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateborderbrush.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateboxbrush.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\brushes\\slatecolorbrush.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateroundedboxbrush.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateimagebrush.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\editor\\editorstyle\\public\\editorstyleset.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\editor\\editorstyle\\public\\interfaces\\ieditorstylemodule.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\visualizerdebuggingstate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

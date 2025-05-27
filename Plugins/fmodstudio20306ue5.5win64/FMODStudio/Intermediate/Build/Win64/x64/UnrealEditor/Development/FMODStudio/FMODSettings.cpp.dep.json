@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\private\\fmodsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\classes\\fmodsettings.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_common.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_codec.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_dsp_effects.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\public\\fmod\\fmod_output.h",
+            "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodsettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\developer\\developertoolsettings\\classes\\settings\\projectpackagingsettings.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developertoolsettings\\uht\\projectpackagingsettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\editor\\unrealed\\public\\objecttools.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\developer\\collectionmanager\\public\\collectionmanagertypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\developer\\sourcecontrol\\public\\isourcecontrolstate.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\slatecore\\public\\textures\\slateicon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
