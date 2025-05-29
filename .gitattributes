@@ -2,4 +2,5 @@
 * text=auto
 
 Content/Static/** filter=lfs diff=lfs merge=lfs -text
+Content/ExampleContent/** filter=lfs diff=lfs merge=lfs -text
 Plugins/FMOD/Binaries/** filter=lfs diff=lfs merge=lfs -text
