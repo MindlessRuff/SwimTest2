@@ -7,15 +7,15 @@
         "Includes": [
             "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\classes\\fmodvca.h",
             "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\assetregistrytagscontext.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\assetregistrytagscontext.h",
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
             "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
             "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\uht\\fmodvca.generated.h",
             "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\source\\fmodstudio\\public\\fmodstudiomodule.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\visualizerdebuggingstate.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\moduleinterface.h"
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\visualizerdebuggingstate.h",
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\moduleinterface.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

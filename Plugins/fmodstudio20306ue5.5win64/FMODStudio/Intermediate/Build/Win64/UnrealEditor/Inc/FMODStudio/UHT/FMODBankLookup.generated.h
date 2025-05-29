@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FMODSTUDIO_FMODBankLookup_generated_h
 
-#define FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_12_GENERATED_BODY \
+#define FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODLocalizedBankRow_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 template<> FMODSTUDIO_API UScriptStruct* StaticStruct<struct FFMODLocalizedBankRow>();
 
-#define FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_20_GENERATED_BODY \
+#define FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_20_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FFMODLocalizedBankTable_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -30,7 +30,7 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<struct FFMODLocalizedBankR
 
 template<> FMODSTUDIO_API UScriptStruct* StaticStruct<struct FFMODLocalizedBankTable>();
 
-#define FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
+#define FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
 private: \
 	static void StaticRegisterNativesUFMODBankLookup(); \
 	friend struct Z_Construct_UClass_UFMODBankLookup_Statics; \
@@ -39,7 +39,7 @@ public: \
 	DECLARE_SERIALIZER(UFMODBankLookup)
 
 
-#define FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
+#define FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODBankLookup(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFMODBankLookup) \
@@ -53,12 +53,12 @@ public: \
 	NO_API virtual ~UFMODBankLookup();
 
 
-#define FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_25_PROLOG
-#define FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_GENERATED_BODY_LEGACY \
+#define FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_25_PROLOG
+#define FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
-	FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
+	FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_INCLASS \
+	FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h_28_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,7 +66,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> FMODSTUDIO_API UClass* StaticClass<class UFMODBankLookup>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h
+#define CURRENT_FILE_ID FID_UnrealProjects_DepthsOfChiminea_SwimTest2_Plugins_fmodstudio20306ue5_5win64_FMODStudio_Source_FMODStudio_Private_FMODBankLookup_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

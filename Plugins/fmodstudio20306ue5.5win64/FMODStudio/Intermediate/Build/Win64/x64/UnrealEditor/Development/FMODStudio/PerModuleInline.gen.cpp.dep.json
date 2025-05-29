@@ -5,9 +5,9 @@
         "ProvidedModule": "",
         "PCH": "z:\\unrealprojects\\depthsofchiminea\\swimtest2\\plugins\\fmodstudio20306ue5.5win64\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
         "Includes": [
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\visualizerdebuggingstate.h"
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
+            "z:\\epic games\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\modules\\visualizerdebuggingstate.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FMODStudioNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\UnrealProjects\DepthsOfChiminea\SwimTest2\Intermediate\Build\Win64\x64\SwimTest2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"Z:\UnrealProjects\DepthsOfChiminea\SwimTest2\Plugins\fmodstudio20306ue5.5win64\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Module.FMODStudioNiagara.cpp.obj"
+"Z:\UnrealProjects\DepthsOfChiminea\SwimTest2\Plugins\fmodstudio20306ue5.5win64\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\Default.rc2.res"
+/OUT:"Z:\UnrealProjects\DepthsOfChiminea\SwimTest2\Plugins\fmodstudio20306ue5.5win64\FMODStudioNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\FMODStudioNiagara\UnrealEditor-FMODStudioNiagara.lib"

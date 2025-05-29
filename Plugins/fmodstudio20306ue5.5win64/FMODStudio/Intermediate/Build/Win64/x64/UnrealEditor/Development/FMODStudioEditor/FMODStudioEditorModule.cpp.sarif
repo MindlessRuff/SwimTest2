@@ -16,7 +16,7 @@
                         {
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///C:/Program Files/Epic Games/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
+                                    "uri": "file:///Z:/Epic Games/UnrealEngine/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
                                 },
                                 "region": {
                                     "startLine": 316,
@@ -30,7 +30,7 @@
                             "id": 0,
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///C:/Program Files/Epic Games/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
+                                    "uri": "file:///Z:/Epic Games/UnrealEngine/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
                                 },
                                 "region": {
                                     "startLine": 316,
@@ -63,7 +63,7 @@
                             "id": 2,
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///C:/Program Files/Epic Games/UE_5.5/Engine/Source/Editor/Sequencer/Public/ISequencerModule.h"
+                                    "uri": "file:///Z:/Epic Games/UnrealEngine/UE_5.5/Engine/Source/Editor/Sequencer/Public/ISequencerModule.h"
                                 },
                                 "region": {
                                     "startLine": 552,
@@ -81,7 +81,7 @@
                             "id": 3,
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///C:/Program Files/Epic Games/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
+                                    "uri": "file:///Z:/Epic Games/UnrealEngine/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
                                 },
                                 "region": {
                                     "startLine": 386,
@@ -99,7 +99,7 @@
                             "id": 4,
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///C:/Program Files/Epic Games/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
+                                    "uri": "file:///Z:/Epic Games/UnrealEngine/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
                                 },
                                 "region": {
                                     "startLine": 356,
@@ -117,7 +117,7 @@
                             "id": 5,
                             "physicalLocation": {
                                 "artifactLocation": {
-                                    "uri": "file:///C:/Program Files/Epic Games/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
+                                    "uri": "file:///Z:/Epic Games/UnrealEngine/UE_5.5/Engine/Source/Editor/Sequencer/Public/SequencerChannelInterface.h"
                                 },
                                 "region": {
                                     "startLine": 309,
